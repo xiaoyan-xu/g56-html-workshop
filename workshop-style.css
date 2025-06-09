@@ -1,4 +1,4 @@
-css
+/* CSS for the workshop page */
 body {
     background-color: #d4d0d0;
     font-family: Arial, sans-serif;
@@ -39,7 +39,7 @@ img {
     margin-top: 10px;
 }
 
-input[type="email"] {
+.Email {
     margin-bottom: 10px;
 }
 
